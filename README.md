@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+My name is Sarah. I like learning theories, process improvement and well-crafted sentences.
